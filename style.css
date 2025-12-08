@@ -1,7 +1,7 @@
 body {
 background-color: #662bb3;
 color: white;
-font-family: "Bai Jamjuree", sans-serif;
+font-family: "lobster";
 display: flex;
 justify-content: center;
 align-items: center;
@@ -11,7 +11,7 @@ margin: 0;
 button {
 background-color: #3f12a7;
 color: white;
-font-family: "Bai Jamjuree", sans-serif;
+font-family: "lobster";
 }
 .passo {
 display: none;
